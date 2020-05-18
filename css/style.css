@@ -1,0 +1,37 @@
+body{
+  background-color: rgba(176, 177, 177, 0.3);
+}
+#interface{
+  width: 800px;
+  height: 500px;
+  background: rgb(1,246,186);
+  background: linear-gradient(90deg, rgba(1,246,186,0.8687850140056023) 31%, rgba(0,212,255,1) 100%);
+  margin: auto;
+  margin-top: 130px;
+  color: white;
+  box-shadow: 10px 10px 10px #888888;
+}
+
+h1{
+  text-align: center;
+  padding: 20px;
+  background-color: #51b993;
+
+}
+
+#temp{
+  padding-top: 90px;
+  text-align: center;
+}
+
+input{
+  background-color: rgba(0, 0, 0, 0.2);
+  border: none;
+  color: white;
+  margin-right: 10px;
+  padding: 5px;
+}
+
+span{
+  font-size: 16px;
+}
